@@ -1,0 +1,24 @@
+
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+}
+
+
+
+a {
+  text-decoration: none;
+}
+
+#center-paragraph {
+  font-size: 40px;
+  font-weight: bolder;
+  color: orange;
+}
+
+#p-footer a {
+  color: rgb(115, 26, 26);
+}
